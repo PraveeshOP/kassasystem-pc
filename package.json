@@ -1,0 +1,23 @@
+{
+  "name": "kassasystem-pc",
+  "version": "1.0.0",
+  "description": "This is the kassasystem, that should be used in the pc",
+  "homepage": "https://github.com/PraveeshOP/kassasystem-pc#readme",
+  "bugs": {
+    "url": "https://github.com/PraveeshOP/kassasystem-pc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveeshOP/kassasystem-pc.git"
+  },
+  "license": "ISC",
+  "author": "Prabesh Khatri",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "devDependencies": {
+    "electron": "^42.3.3"
+  }
+}
